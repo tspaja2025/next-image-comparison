@@ -1,5 +1,4 @@
-import { ImageComparison } from "@/components/image-comparison";
-import Image from "next/image";
+import ImageComparison from "@/components/image-comparison";
 
 export default function Home() {
   return (
